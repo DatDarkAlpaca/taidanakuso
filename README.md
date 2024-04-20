@@ -1,6 +1,6 @@
-# Premake-Conan Template
+# 怠惰なくそ
 
-> This respository is just a simple Premake5 with Conan C++ template.
+> 怠惰なくそ is an anki creation tool aimed towards people who can't be bothered by their card quality. It provides close to no customization options, but gets the job done.
 
 # Getting Started
 
@@ -19,7 +19,7 @@ You may also need to add an environment variable to use `premake5`.
 ## Installation
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/DatDarkAlpaca/premake-conan-template
+    git clone https://github.com/DatDarkAlpaca/taidanakuso
     ```
 
 2. **Generate the project**
@@ -32,7 +32,7 @@ You may also need to add an environment variable to use `premake5`.
 
 3. **Compile the project**
    Use the generated project files to build the project. 
-   After that, you should have a working copy under `premake-conan-template/build/bin/{configuration}/sample-project`. 
+   After that, you should have a working copy under `taidanakuso/build/bin/{configuration}/taidana-kuso`. 
 
 # License
 

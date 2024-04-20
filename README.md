@@ -1,6 +1,6 @@
 # 怠惰なくそ
 
-> 怠惰なくそ is an anki creation tool aimed towards people who can't be bothered by their card quality. It provides close to no customization options, but gets the job done.
+> 怠惰なくそ is an anki card creation tool aimed towards people who can't be bothered by their card quality. It provides close to no customization options, but gets the job done.
 
 # Getting Started
 

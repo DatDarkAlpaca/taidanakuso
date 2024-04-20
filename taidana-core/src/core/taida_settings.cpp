@@ -14,7 +14,7 @@ namespace taida
 	static void createStyleSettings(QSettings& settings)
 	{
 		// Themes:
-		settings.setValue("styles/themes/selected_style", "buddy_material");
+		settings.setValue("styles/themes/selected_style", "taida_material");
 		settings.setValue("styles/themes/selected_theme", "dark_purple");
 		settings.setValue("styles/themes/is_theme_dark", true);
 

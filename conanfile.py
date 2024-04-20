@@ -1,7 +1,7 @@
 from conan import ConanFile
 
 
-class TemplateRecipe(ConanFile):
+class TaidaRecipe(ConanFile):
     settings = 'os', 'compiler', 'build_type', 'arch'
     generators = 'PremakeDeps'
 

@@ -17,5 +17,5 @@ links {
 
 setup_vendors()
 
-prebuildcommands "{COPYDIR}  \"%{wks.location}res/styles\"                     \"%{wks.location}/buddy/res/styles\""
-prebuildcommands "{COPYDIR}  \"%{wks.location}res/styles\"                     \"%{binaries_path}/buddy/res/styles\""
+prebuildcommands "{COPYDIR}  \"%{wks.location}res/styles\"                     \"%{wks.location}/taidana-kuso/res/styles\""
+prebuildcommands "{COPYDIR}  \"%{wks.location}res/styles\"                     \"%{binaries_path}/taidana-kuso/res/styles\""
